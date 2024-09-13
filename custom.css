@@ -1,0 +1,20 @@
+.card .img-fit{
+    aspect-ratio: 2/3;
+    object-fit: cover;
+}
+
+.card{
+    height:100%;
+}
+
+.card-body{
+    
+    height: 100%;
+}
+
+@media (max-width: 767.98px) {
+    .car .img-fit{
+        aspect-ratio: 1.45 / 1;
+    }
+}
+
